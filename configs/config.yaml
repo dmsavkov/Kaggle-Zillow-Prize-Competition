@@ -1,0 +1,6 @@
+dev_run: false
+RSEED: 42
+target: "logerror"
+index_col: "parcelid"
+to_load_all_data: false
+stat_significant_magnitude: 0.05

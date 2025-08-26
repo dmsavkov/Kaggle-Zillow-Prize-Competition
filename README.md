@@ -5,7 +5,7 @@ Current status: IN ACTIVE DEVELOPMENT.
 
 ## Overview
 
-This project implements a modular Python framework for analyzing real estate datasets, with focus on data quality assessment, feature engineering, and statistical testing. The codebase emphasizes reproducible analysis workflows and clean software architecture.
+This project implemented with the focus on various analysis: data quality assessment, feature engineering, statistical testing, data wranling and others. The codebase emphasizes reproducible examination workflows and clean software architecture.
 
 ## Project Structure
 

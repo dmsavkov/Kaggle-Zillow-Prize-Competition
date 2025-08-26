@@ -5,7 +5,7 @@ Current status: IN ACTIVE DEVELOPMENT.
 
 ## Overview
 
-This project implemented with the focus on various analysis: data quality assessment, feature engineering, statistical testing, data wranling and others. The codebase emphasizes reproducible examination workflows and clean software architecture.
+Currenlty the project focuses on different analysis: data quality assessment, feature engineering, statistical testing, data wranling and others. The codebase emphasizes reproducible examination workflows and clean software architecture.
 
 ## Project Structure
 
